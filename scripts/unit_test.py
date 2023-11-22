@@ -3,7 +3,7 @@
 
 
 def some_function(input: str) -> str:
-    """Tthe function you want to test."""
+    """The function you want to test."""
     return f"output_{input.split('_')[-1]}"
 
 
